@@ -1,0 +1,3 @@
+	<h4 class="leadarticlehead"><a href="<%Link%>"><%Title%></a></h4>
+	<p class="sect-byline" style="margin-bottom: 10px;"><%IsoPubDate$d("mmmm d, yyyy")%></p>
+  <p><%Summary%></p>
