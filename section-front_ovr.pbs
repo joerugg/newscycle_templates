@@ -1,0 +1,11 @@
+<pbs:!macro name="mainhead" cachetime="20" CacheQualifiers="Category" pageType="section">
+<div id="mainrow" class="row">
+<!-- main -->
+	<div id="topad" class="col-sm-12">
+		<div class="leaderboard ad-cont" id="leader-ATF"></div>
+	</div>
+	<pbs:!macro name="getcategory" CacheQualifiers="Category">
+	<div id="bottomad" class="col-sm-12">
+		<div class="leaderboard ad-cont" id="leader-BTF"></div>
+	</div>
+<pbs:!macro name="mainfooter" cachetime="60">
